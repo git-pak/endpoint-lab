@@ -1,5 +1,5 @@
 # endpoint-lab
-Windows 11 and Microsoft 365 Deployment Lab Project Documentation
+Windows 11 and Microsoft 365 Deployment Lab Documentation
 ## Lab Objectives
 - Plan and prepare infrastructure  
 - Configure Cloud Management Gateway  
